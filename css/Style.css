@@ -1,0 +1,10 @@
+.section-one{
+    background-color: gray;
+    color: white;
+}
+.section-two{
+    background: url("../image/02.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
